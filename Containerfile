@@ -1,4 +1,4 @@
-FROM ghcr.io/gzsoares/fedora-bootc-nvidia-driver:latest
+FROM ghcr.io/gzSoares/fedora-bootc-nvidia-driver:latest
 
 RUN dnf5 install gnome-shell --setopt=tsflags=nodocs --setopt=install_weak_deps=False -y && \
     dnf5 clean all && \
