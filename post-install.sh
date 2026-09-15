@@ -23,12 +23,10 @@ com.mattjakeman.ExtensionManager
 com.spotify.Client
 com.thincast.client
 im.riot.Riot
-io.mpv.Mpv
 net.nokyan.Resources
 org.fedoraproject.MediaWriter
 org.gnome.Boxes
 org.gnome.Calculator
-org.gnome.Evince
 org.gnome.Loupe
 org.gnome.Showtime
 org.gnome.TextEditor
