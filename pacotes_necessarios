@@ -15,12 +15,10 @@ fpaste
 git
 gnome-disk-utility
 google-noto-fonts-all
-gnome-shell-extension-appindicator
 java-latest-openjdk
 langpacks-core-en
 langpacks-en
 langpacks-fonts-en
-libva-nvidia-driver
 podman
 spice-vdagent
 sysfsutils
